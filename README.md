@@ -4,7 +4,7 @@
 <h3 align="center"><b>Full Stack Developer</b> focused on front-end with <b>ReactJS</b> frameworks.</h3>
 <h4 align="center">Former Music and Video Tech & Producer</h4>
 
-- 🌱 I’m currently learning **Front-end frameworks VUE & React Native. Back-end frameworks for JAVA**
+- 🌱 I’m currently learning Front-end frameworks VUE & React Native and Back-end frameworks for JAVA
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
