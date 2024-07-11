@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm ANDRES BONELLI</h1>
 <h3 align="center"><b>Full Stack Developer</b> focused on front-end with <b>ReactJS</b> frameworks.</h3>
-<h4 align="center">Former Music and Video Tech & Producer</h4>
+<h4 align="center">Former Photographer, Music & Video Producer</h4>
 
 - 🌱 I’m currently learning Front-end frameworks VUE & React Native and Back-end frameworks for JAVA
 
